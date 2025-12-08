@@ -4,10 +4,10 @@
   🔧 Desenvolvedor Full-Stack | 📚 Estudante de Engenhosaria | 🛩️ Inventor de Aparatos
 
 
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=brass
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gold
-  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=copper
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=gear_silver
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23B5A642
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23FFD700
+  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=%23B87333
+  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%23C0C0C0
 
 ---
 ### 🏭 Sobre Mim
@@ -20,11 +20,11 @@
 ---
 ### ⚙️ Arsenal Central
 
-  https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=brass
-  https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=gold
-  https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=gear_silver
-  https://img.shields.io/badge/MySQL-00CED1?style=for-the-badge&logo=mysql&logoColor=copper
-  https://img.shields.io/badge/Firebase-FF6EC7?style=for-the-badge&logo=firebase&logoColor=ivory
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23B5A642
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23FFD700
+  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%23C0C0C0
+  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=%23B87333
+  https://img.shields.io/badge/Firebase-FF6EC7?style=for-the-badge&logo=firebase&logoColor=%23FFFFF0
 
 ---
 ### 🛠️ Aparatos em Destaque
@@ -37,8 +37,8 @@
 ---
 ### 📊 Registros de Vapor
 
-  https://github-readme-stats.vercel.app/api?username=Asproz21&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Asproz21&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a
+  https://github-readme-stats.vercel.app/api?username=Asproz21&show_icons=true&theme=gruvbox&hide_border=true&bg_color=2E3440
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Asproz21&layout=compact&theme=gruvbox&hide_border=true&bg_color=2E3440
 
 
   GitHub Streak
@@ -47,13 +47,13 @@
 ### 📜 Correspondências
 
   
-    https://img.shields.io/badge/Gmail-ff0055?style=for-the-badge&logo=gmail&logoColor=parchment
+    https://img.shields.io/badge/Gmail-ff0055?style=for-the-badge&logo=gmail&logoColor=%23F5F5DC
   
   
-    https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=brass
+    https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=%23B5A642
   
   
-    https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=steam
+    https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=%23A9A9A9
   
 
 ---
@@ -69,4 +69,4 @@
 - 🔹 Ascender a forjas full-stack de complexidade a pistão  
 ---
 
-  https://img.shields.io/badge/Forjado%20com%20%E2%9D%A4%20por-Luan%20Costa-brass?style=for-the-badge
+  https://img.shields.io/badge/Forjado%20com%20%E2%9D%A4%20por-Luan%20Costa-%23B5A642?style=for-the-badge
